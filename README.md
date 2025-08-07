@@ -9,7 +9,7 @@ This project contains a Jupyter Notebook that analyzes data related to the Nifty
 
 ## 🧰 Technologies Used
 
-- Python 3.x
+- Python 3.1
 - Jupyter Notebook
 - pandas
 - numpy
